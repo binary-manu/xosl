@@ -1,3 +1,5 @@
+⚠️ **Migrated to https://codeberg.org/binary-manu/xosl** ⚠️
+
 # A modern way to build XOSL, plus some nice fixes
 
 |       `travis`         |        `master`        |
